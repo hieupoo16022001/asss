@@ -1,0 +1,8 @@
+CREATE TABLE Acount(
+id INT PRIMARY KEY NOT NULL AUTO INCREMENT,
+fullname VARCHAR(20) NOT NULL,
+email VARCHAR(20) NOT NULL,
+username VARCHAR(20) NOT NULL,
+password VARCHAR(20) NOT NULL
+)
+INSERT INTO Acount VALUES('Nguyen Hieu','hieupoo16@gmail.com','hieupoo','123456asd')

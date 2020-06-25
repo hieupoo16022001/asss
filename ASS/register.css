@@ -1,0 +1,19 @@
+
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: #e0d7d7;
+    margin-top: 250px;
+    margin-left: 500px;
+
+}
+.box h1{
+    text-align: center;
+
+}
+.box p{
+    margin-left: 30px;
+}
+.box button{
+   margin-left: 130px;
+}
